@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 子夏易傳
-#+DATE: 2015-09-23 09:34:08
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 21:53:12.193399
+#+PROPERTY: ID KR1a0002
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR1a0002_WYG_007-1a>¶
 欽定四庫全書¶
 　子夏易傳卷七¶
@@ -434,4 +436,3 @@
 　¶
 　¶
 　子夏易傳卷七¶
-
